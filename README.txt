@@ -21,5 +21,5 @@
 - IP
 
   . All data internal to the collaboration have been removed.
-  . This directory only contain a snapshot of the most important files.
+  . This directory only contains a snapshot of the most important files.
 
